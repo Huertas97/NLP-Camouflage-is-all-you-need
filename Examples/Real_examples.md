@@ -10,4 +10,4 @@
 |                | Let's bring back SP34K1NG 1N TH3 NUM3R4LS OF TH3 BL1ND PROPH3T  ([Source](https://www.reddit.com/r/homestuck/comments/uoedvy/th3_num3r4ls_of_th3_l1t_proph3ts/))                                             |
 | **Literature** | \#B0p4$$w0r\|)  [Source](https://doi.org/10.1155/2021/3122627)                                                                                             |
 |                | v4cun4,  v@(u¬a, nacuva  [Source](romero_wordcamo_2021)                                                                                    |
-|                | k0 b1t,  c0\*vid,  C(o(v(i(d                                                                                 |
+|                | k0 b1t,  c0\*vid,  C(o(v(i(d  [Source](romero_wordcamo_2021)                                                                                  |
