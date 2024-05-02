@@ -8,6 +8,6 @@
 | **Instagram**  | P\*les+in1ans as t\*rr0rist+s or t\*rr0rist apologists to justify <br> the slau/ghter that is happening ([Source](https://www.instagram.com/reel/CyisGvxLmKT/?igsh=NnYyaTRycGhqbmk5))     |
 | **Reddit**     | ▼LTRA▼IOLENCE ([Source](https://www.reddit.com/r/girlsfrontline/comments/inx0nf/do_you_like_iolence/?rdt=42739))                                                                                               |
 |                | Let's bring back SP34K1NG 1N TH3 NUM3R4LS OF TH3 BL1ND PROPH3T  ([Source](https://www.reddit.com/r/homestuck/comments/uoedvy/th3_num3r4ls_of_th3_l1t_proph3ts/))                                             |
-| **Literature** | \#B0p4$$w0r\|)                                                                                               |
-|                | v4cun4,  v@(u¬a, nacuva                                                                                      |
+| **Literature** | \#B0p4$$w0r\|)  [Source](https://doi.org/10.1155/2021/3122627)                                                                                             |
+|                | v4cun4,  v@(u¬a, nacuva  [Source](romero_wordcamo_2021)                                                                                    |
 |                | k0 b1t,  c0\*vid,  C(o(v(i(d                                                                                 |
