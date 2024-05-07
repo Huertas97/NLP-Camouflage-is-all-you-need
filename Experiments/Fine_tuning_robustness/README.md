@@ -1,6 +1,9 @@
-## Information
+# Information
 
-This folder contains the code for the experiments in the paper "Camouflage is all you need: A Robust Model for Adversarial Examples" by Yiren Zhao, Yijie Guo, and Chao Zhang. The code is based on the code for the paper "Adversarial Examples Are Not Bugs, They Are Features" by Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, and Aleksander Madry.
+This folder contains the code for the experiments for the fine-tuning _static_ and _dynamic_ camouflage. The experiments are used to evaluate the robustness of the model against camouflage adversarial attacks. The experiments are conducted using the `transformers` library from Hugging Face, and the `pyleetspeak` library for generating the camouflage. The experiments are conducted using the `Spacy` library for the data processing and the `Pytorch` library for the training of the model.
+
+
+In the `Results` folder you will find the non-grouped test results for the experiments for each model architecture (encoder-only, decoder-only, and encoder-decoder), and in the `configs` folder you will find the configuration files used for the the fine-tuning experiments. The configuration files are used to ensure reproducibility and ease of use. The configuration files contain the parameters used for the experiments, such as the training parameters, the model parameters, and the levels of complexity. The configuration files are used to ensure reproducibility and ease of use.
 
 
 ## Configs 
