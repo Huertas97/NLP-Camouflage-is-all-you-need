@@ -22,8 +22,8 @@ These files contain the parameters used for training the model with static camou
 
 ```yaml
 [paths]
-train = "./Spacy_Data/Offen_SemEval_2019/Leet_Data/10_per/train.spacy"
-dev = "./Spacy_Data/Offen_SemEval_2019/Leet_Data/10_per/dev.spacy"
+train = "./Spacy_Data/Offen_SemEval_2019/Leet_Data/10_per/train.spacy" # path to the already predefined camouflage training data
+dev = "./Spacy_Data/Offen_SemEval_2019/Leet_Data/10_per/dev.spacy" # path to the already predefined camouflage development data
 ```
 
 
@@ -32,6 +32,11 @@ dev = "./Spacy_Data/Offen_SemEval_2019/Leet_Data/10_per/dev.spacy"
 The main difference between the dynamic and static camouflage is that the dynamic camouflage is generated on the fly, while the static camouflage is generated before the training. The dynamic camouflage is generated using the `pyleetspeak` library, with the augmentation function from `functions.py`, which generates a new camouflage version for each batch of data. The main parameters for dynamic camouflage are:
 
 ```yaml
+[paths]
+train = "./Spacy_Data/Offen_SemEval_2019/Original_Data/train_offen.spacy" # path to the original training data to be augmented in each batch
+dev = "./Spacy_Data/Offen_SemEval_2019/Original_Data/dev_offen.spacy" # path to the original development data to be augmented in each batch
+
+
 [corpora.train.augmenter]
 @augmenters = "wordcamouflage_augmenter.v1"
 level = 0.1
